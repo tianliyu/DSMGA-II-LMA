@@ -1,0 +1,9 @@
+==============================================
+Copyright 2017 Tian-Li Yu and Sung-Chi Li 
+
+This is a C++ implementation of DSMGA-II with LMA (linkage model approximation). Feel free to use, modify or distribute the code for academic purposes with an appropriate acknowledgment of the source, but in all resulting publications please include the following citations:
+
+S.-H. Hsu and T.-L. Yu, Optimization by pairwise linkage detection, incremental linkage set, and restricted/back mixing: DSMGA-II, Genetic and Evolutionary Computation Conference (GECCO 2015).
+
+S.-C. Li and T.-L. Yu, Speeding up DSMGA-II on CUDA platform, Genetic and Evolutionary Computation Conference (GECCO 2017).
+==============================================
